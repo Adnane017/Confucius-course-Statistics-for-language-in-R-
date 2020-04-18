@@ -1,4 +1,4 @@
-# Statistics for linguists: Tutorial in R
+# Statistics for linguists: A tutorial in R
 
 ### By [Adnane Ez-zizi](https://aezzizi.com) ([@Adnane_E1](https://twitter.com/Adnane_E1))
 
@@ -80,4 +80,4 @@ The tutorial package contains a `pdf` handout that guides the learner through th
 </table>
 <br>
 
-**Note**: The original handout that was given to the participants of the tutorial did not contain the outputs of the R commands to encourage the participants to test and interact with the commands. Also, the answers to the tutorial questions were not provided in the main R script.  
+**Note:** The original handout that was given to the participants of the tutorial did not contain the outputs of the R commands to encourage the participants to test and interact with the commands. Also, the answers to the tutorial questions were not provided in the main R script.  
